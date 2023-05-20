@@ -1,0 +1,8 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#541A1D",
+    "titleBar.activeBackground": "#752428",
+    "titleBar.activeForeground": "#FEFBFB"
+  },
+  "cSpell.words": ["bgcolor", "predeploy", "Rightbar", "skyblue", "tinysrgb"]
+}
